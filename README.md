@@ -54,3 +54,5 @@ pragma warning disable 612
 
 3)после компеляции заменил Xades.dll и Microsoft.Xades.dll 
 
+
+измененные файлики, приложил...
