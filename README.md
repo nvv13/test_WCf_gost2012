@@ -1,24 +1,24 @@
-# test_WCf_gost2012
+п»ї# test_WCf_gost2012
 
 
-попробовал доработать Xades.dll Microsoft.Xades.dll из проекта
+РїРѕРїСЂРѕР±РѕРІР°Р» РґРѕСЂР°Р±РѕС‚Р°С‚СЊ Xades.dll Microsoft.Xades.dll РёР· РїСЂРѕРµРєС‚Р°
 https://github.com/Good-Samaritan/signature-demo-net
 
-мне нужно для проекта на WCF только 
+РјРЅРµ РЅСѓР¶РЅРѕ РґР»СЏ РїСЂРѕРµРєС‚Р° РЅР° WCF С‚РѕР»СЊРєРѕ 
 Xades.dll 
 Microsoft.Xades.dll 
 
 
-1)сделал на
-Тестовый УЦ ООО "КРИПТО-ПРО" 
+1)СЃРґРµР»Р°Р» РЅР°
+РўРµСЃС‚РѕРІС‹Р№ РЈР¦ РћРћРћ "РљР РРџРўРћ-РџР Рћ" 
 https://testca2012.cryptopro.ru/ui/1/Login.aspx
 
-сертификат
-ГОСТ Р 34.10-2012 256 бит
+СЃРµСЂС‚РёС„РёРєР°С‚
+Р“РћРЎРў Р  34.10-2012 256 Р±РёС‚
 
 
-2)поменял, строчки
-в 2-х исходниках
+2)РїРѕРјРµРЅСЏР», СЃС‚СЂРѕС‡РєРё
+РІ 2-С… РёСЃС…РѕРґРЅРёРєР°С…
 
 
 .\signature-demo-net-master\Xades-master\Source\Library\XadesSignedXml.cs
@@ -52,5 +52,5 @@ pragma warning disable 612
 
 
 
-3)после компеляции заменил Xades.dll и Microsoft.Xades.dll 
+3)РїРѕСЃР»Рµ РєРѕРјРїРµР»СЏС†РёРё Р·Р°РјРµРЅРёР» Xades.dll Рё Microsoft.Xades.dll 
 
