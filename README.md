@@ -58,7 +58,13 @@ pragma warning disable 612
 измененные файлики, приложил...
 
 
-PS 2019-04-01: проверил работоспособность на СИТ2, запросы 
+
+
+PS 2019-04-01: проверил работоспособность на СИТ2, запросы :
+ 
  exportNsiListRequest
+ 
  exportHouseDataRequest
+ 
  importPaymentDocumentDataRequest
+ 
